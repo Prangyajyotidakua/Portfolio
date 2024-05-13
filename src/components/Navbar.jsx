@@ -72,27 +72,27 @@ export const Navbar = () => {
                         </a> </li>
                         <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-yellow-600'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                            href=''>
+                            href='https://github.com/Prangyajyotidakua'>
                            Instagram <FiInstagram size={30} />
                         </a> </li>    
                         <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-yellow-600'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                            href=''>
+                            href='https://github.com/Prangyajyotidakua'>
                             Gmail  <AiOutlineMail size={30} />
                         </a> </li>    
                         <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-yellow-600'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                            href=''>
+                            href='https://github.com/Prangyajyotidakua'>
                             Twitter  <AiOutlineTwitter size={30} />
                         </a> </li>    
                         <li className=' w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-yellow-600'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                            href=''>
+                            href='https://github.com/Prangyajyotidakua'>
                             Resume  <GrContactInfo size={30} />
                         </a> </li>    
                         <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-yellow-600'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                            href=''>
+                            href='https://github.com/Prangyajyotidakua'>
                             Facebook  <AiOutlineFacebook size={30} />
                         </a> </li>    
          
@@ -103,9 +103,7 @@ export const Navbar = () => {
 }
 
 // rep create
-
-
-
+// ==========================
 // git init
 // git remote add origin https://github.com/Prangyajyotidakua/Portfolio.git
 // git checkout -b new-branch
@@ -115,3 +113,7 @@ export const Navbar = () => {
 
 
 // again push 
+// =======================
+// git add .
+// git commit -m "Updated React project with new features"
+// git push origin new-branch
