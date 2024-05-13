@@ -101,3 +101,17 @@ export const Navbar = () => {
         </div>
     )
 }
+
+// rep create
+
+
+
+// git init
+// git remote add origin https://github.com/Prangyajyotidakua/Portfolio.git
+// git checkout -b new-branch
+// git add . 
+// git commit -m "first commit"
+// git push origin new-branch
+
+
+// again push 
