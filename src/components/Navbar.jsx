@@ -12,7 +12,7 @@ export const Navbar = () => {
     return (
         <div className='flex w-full text-gray-300 h-[80px] fixed justify-between items-center px-4 bg-[#0a192f]'>
             <div>
-                <img src={pjd} style={{ width: '50px' }} />
+            <img src={pjd} alt="Logo" style={{ width: '50px' }} />
             </div>
 
             <div className='hidden md:flex'>
